@@ -13,3 +13,6 @@
 
 > yarn test || npm test
 ```
+
+## 링크
+- http://tech.kakao.com/2017/09/27/kakao-blind-recruitment-round-1/
