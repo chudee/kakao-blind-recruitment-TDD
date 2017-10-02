@@ -2,7 +2,7 @@ let chai = require('chai');
 let should = chai.should(); 
 let Dart = require('../2_다트게임').Dart;
 
-describe('[다트게임]', () => { 
+describe('[2.다트게임]', () => { 
     describe('입력 1', () => { 
         it('1^1 * 2 + 2^2 * 2 + 3^3', () => { 
             let dartResult = '1S2D*3T';
