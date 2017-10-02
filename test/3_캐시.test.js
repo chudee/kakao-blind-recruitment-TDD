@@ -44,7 +44,7 @@ describe('[3.캐시]', () => {
         }); 
     });
     describe('입력 6', () => { 
-        it(`cacheSize: 0, cities: `, () => { 
+        it(`cacheSize: 0, cities: ['Jeju', 'Pangyo', 'Seoul', 'NewYork', 'LA']`, () => { 
             let cacheSize = 0;
             let cities = ['Jeju', 'Pangyo', 'Seoul', 'NewYork', 'LA'];
             let result = Cache(cacheSize, cities);
