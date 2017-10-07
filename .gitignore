@@ -2,5 +2,5 @@
 node_modules
 
 # 못푼문제
-test/4_셔틀버스.test.ts
+test/4_셔틀버스.test.js
 4_셔틀버스.js
